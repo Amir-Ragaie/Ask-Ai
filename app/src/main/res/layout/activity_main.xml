@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_200"
+    tools:context=".MainActivity">
+
+    <!-- TextView for API response -->
+
+
+    <!-- ImageView for microphone icon -->
+<ImageView
+android:id="@+id/idIVMic"
+android:layout_width="100dp"
+android:layout_height="100dp"
+android:layout_marginTop="100dp"
+android:src="@drawable/ic_mic"
+android:contentDescription="Microphone icon"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:tint="@color/white" />
+
+    <!-- Instruction TextView -->
+<TextView
+android:id="@+id/textView"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_marginTop="20dp"
+android:gravity="center"
+android:text="Click on Mic to speak"
+android:textColor="@color/white"
+android:textSize="18sp"
+app:layout_constraintStart_toStartOf="parent"
+app:layout_constraintTop_toBottomOf="@id/idIVMic"
+app:layout_constraintEnd_toEndOf="parent" />
+
+
+<TextView
+android:id="@+id/idTVOutput"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_marginTop="70dp"
+android:gravity="center"
+android:text="Output will appear here"
+android:textColor="@color/white"
+android:textSize="20sp"
+app:layout_constraintStart_toStartOf="parent"
+app:layout_constraintTop_toBottomOf="@id/textView"
+app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>

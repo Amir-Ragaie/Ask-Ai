@@ -21,7 +21,13 @@ class TTSHelper(context: Context) : TextToSpeech.OnInitListener {
         tts!!.speak(text, TextToSpeech.QUEUE_FLUSH, null, "")
     }
 
+    fun stopSpeaking() {
+        tts!!.stop()
+    }
+
     fun shutdown() {
+        tts?.stop()
         tts?.shutdown()
     }
+
 }

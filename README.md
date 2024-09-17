@@ -50,8 +50,6 @@ This project focuses on developing a mobile application that utilizes machine le
 1. **Clone the Repository:**
     
     ```bash
-    bash
-    Copy code
     git clone https://github.com/Amir-Ragaie/Ask-Ai.git
     cd Ask-Ai
     

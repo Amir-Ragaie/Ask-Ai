@@ -25,6 +25,7 @@ This project focuses on developing a mobile application that utilizes machine le
         <td><img src="assets/Gemini.jpeg" alt="Gemini" /></td>
     </tr>
 </table>
+
 - **Text-to-Speech Integration:** Converts text responses back into audible speech for users using Android’s `TextToSpeech` engine.
 - **Kotlin-Powered:** The app is built using Kotlin, a modern language for Android development.
 - **Accessible UI:** Designed for users who require hands-free operation and audio-based interaction.

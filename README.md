@@ -20,9 +20,11 @@ This project focuses on developing a mobile application that utilizes machine le
 - **Speech-to-Text Integration:** Converts user voice input into text for processing.
 - **Large Language Model Processing:** Interprets and generates responses to user commands using an integrated LLM ([Gemini](https://gemini.google.com/app)).
 
-
-<img height="200" width="320" alt="4" src="assets/Gemini.jpeg" style="display: block; margin: 0 auto;">
-
+<table align="center">
+    <tr>
+        <td><img src="assets/Gemini.jpeg" alt="Gemini" /></td>
+    </tr>
+</table>
 - **Text-to-Speech Integration:** Converts text responses back into audible speech for users using Android’s `TextToSpeech` engine.
 - **Kotlin-Powered:** The app is built using Kotlin, a modern language for Android development.
 - **Accessible UI:** Designed for users who require hands-free operation and audio-based interaction.
@@ -72,8 +74,11 @@ Once the app is running, users can:
 - The response is read back to the user via text-to-speech, powered by `TTSHelper.kt`.
 - you can click on the **stop button** at any time to terminate the response.
 
-<img height="200" width="270" alt="4" src="assets/icon.jpg" style="display: block; margin: 0 auto;">
-
+<table align="center">
+    <tr>
+        <td><img src="assets/icon.jpg" alt="icon" /></td>
+    </tr>
+</table>
 <br>
 
 <!-- put 2 images next to each other -->

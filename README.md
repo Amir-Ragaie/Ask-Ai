@@ -76,11 +76,14 @@ Once the app is running, users can:
 
 <br>
 
-<img height="400" width="270" alt="4" src="assets/img1.jpg">
-<img height="400" width="270" alt="4" src="assets/img2.jpg" >
-
-
-## Contributors
+<!-- put 2 images next to each other -->
+<table align="center">
+    <tr>
+        <td><img src="assets/img1.jpg" alt="img1" /></td>
+        <td><img src="assets/img2.jpg" alt="img2" /></td>
+    </tr>
+</table>
+## 👨‍💻 Contributors
 
 This project is a collaborative effort by the talented students of CSED26. The team members who contributed to the development and success of this project are:
 

@@ -4,12 +4,12 @@
 
 ## **Table of Contents 📋**
 
-1. [Introduction](https://www.notion.so/Ask-Ai-b9730e69aa87440b8b9f0676ac2dc5b2?pvs=21)  🌐
-2. [Features](https://www.notion.so/Ask-Ai-b9730e69aa87440b8b9f0676ac2dc5b2?pvs=21) ✨
-3. [File Descriptions](https://www.notion.so/Ask-Ai-b9730e69aa87440b8b9f0676ac2dc5b2?pvs=21) **📂**
-4. [Installation and Setup](https://www.notion.so/Ask-Ai-b9730e69aa87440b8b9f0676ac2dc5b2?pvs=21) **🔧**
-5. [User Manual](https://www.notion.so/Ask-Ai-b9730e69aa87440b8b9f0676ac2dc5b2?pvs=21)  📚
-6. [Contributors](https://www.notion.so/Ask-Ai-b9730e69aa87440b8b9f0676ac2dc5b2?pvs=21) 👨‍💻
+1. [Introduction](#-introduction)  🌐
+2. [Features](#-features) ✨
+3. [File Descriptions](#-file-descriptions) **📂**
+4. [Installation and Setup](#-installation-and-setup) **🔧**
+5. [User Manual](#-user-manual)  📚
+6. [Contributors](#-contributors) 👨‍💻
 
 ## 🌐 Introduction
 
@@ -80,7 +80,7 @@ Once the app is running, users can:
 <img height="400" width="270" alt="4" src="assets/img2.jpg" >
 
 
-## 👨‍💻 Contributors
+## Contributors
 
 This project is a collaborative effort by the talented students of CSED26. The team members who contributed to the development and success of this project are:
 

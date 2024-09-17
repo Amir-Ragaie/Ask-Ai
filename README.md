@@ -88,6 +88,7 @@ Once the app is running, users can:
         <td><img src="assets/img2.jpg" alt="img2" /></td>
     </tr>
 </table>
+
 ## 👨‍💻 Contributors
 
 This project is a collaborative effort by the talented students of CSED26. The team members who contributed to the development and success of this project are:

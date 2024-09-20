@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
         outputTV = findViewById(R.id.idTVOutput)
         micIV = findViewById(R.id.idIVMic)
         stopBtn = findViewById(R.id.idBtnStop)

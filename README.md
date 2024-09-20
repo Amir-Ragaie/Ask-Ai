@@ -1,7 +1,7 @@
 # Ask Ai **🤖**
 
 **Ask-Ai** is a mobile application built with Android Studio and Kotlin that enables speech-to-speech interactions using machine learning. Users provide voice commands that are converted into text, processed by a large language model (LLM), and then returned as speech using text-to-speech technology. The app is designed to enhance accessibility for those who prefer or require voice-based interaction, making it suitable for individuals with disabilities, busy professionals, and anyone in hands-free environments. 
-[Brief pdf](assets/Brief.pdf)
+[Brief Overview](assets/BriefOverview.pdf)
 
 ## **Table of Contents 📋**
 
